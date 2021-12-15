@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RP2040_Stamp")(type "Legacy")(uri "${KIPRJMOD}/rp2040_stamp_footprints/KiCad5/RP2040_Stamp.lib")(options "")(descr ""))
+  (lib (name "power_extra")(type "KiCad")(uri "${KIPRJMOD}/library/power_extra.kicad_sym")(options "")(descr ""))
+)
